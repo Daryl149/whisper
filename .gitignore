@@ -9,3 +9,7 @@ thumbs.db
 .DS_Store
 .idea
 
+whisper_1/
+inputs/
+outputs/
+
